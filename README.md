@@ -55,7 +55,7 @@ pip install pyodbc
 Installation Steps
 Clone the Repository (if applicable): If your project is in a Git repository, clone it:
 
-git clone https://github.com/your-username/Auto-Inspection.git # Replace with your actual repo URL
+git clone https://github.com/BOLT4L/Auto-Inspection # Replace with your actual repo URL
 cd Auto-Inspection
 
 Otherwise, simply navigate to the directory where your project files are located.
